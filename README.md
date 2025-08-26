@@ -87,6 +87,22 @@ EXTRACKER/
    
 git clone https://github.com/Sanjeevstha662/expenses-tracker.git
 
+2. Navigate to the project folder:
+
+cd expenses-tracker
+
+3. Install dependencies:
+
+npm install
+
+4. Run the development server:
+
+npm run dev
+
+License
+
+This project is open-source and available under the MIT License.
+
 Author
 
 Sanjeev Stha
